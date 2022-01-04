@@ -1,0 +1,47 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+    
+h1,
+h3 { 
+    font-family: cursive;
+    color: #8a4212;
+}
+
+h1 {
+    font-size: 64px;
+    text-align: center;
+}
+
+h3 {
+    font-size: 32px;
+    background-color: burlywood;
+
+}
+
+.img {
+    width: 400px;
+    display: block;
+    margin: auto;
+    shape-image-threshold: ;
+}
+
+.description {
+    font-style: italic;
+}
+.ingredients {
+    font-family: monospace;
+}
+
+.back-button {
+    font-family: monospace;
+}
+.box {
+    display: flex;
+    justify-content: space-between;
+  }
+
+.img-box {
+    width: auto;
+    height: 200px;
+}
